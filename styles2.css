@@ -1,0 +1,23 @@
+body,html {
+    background-image:url("https://i.makeagif.com/media/1-12-2021/izAv5U.gif") ;
+    background-size:cover;
+}
+
+h3 {
+    font-size: xx-large;
+    color:rgb(255, 255, 255);
+
+    text-align: center;
+}
+
+
+a {
+    font-size:xx-large;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+a:hover{
+    color:rgb(70, 128, 125);
+}
